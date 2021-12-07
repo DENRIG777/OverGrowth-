@@ -64,6 +64,12 @@ main>.container {
     color: var(--secondary-color);
 }
 
+.tableHeader{
+    background-color: #19630a;
+    color: white;
+    font-weight: bold;
+}
+
 code[class*="language-"],
         pre[class*="language-"] {
             white-space: pre-wrap;
